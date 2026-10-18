@@ -1,0 +1,57 @@
+h1 {
+    color: #033864;
+    text-align: center;
+}
+
+.first {
+   background-color: #3283c5;
+   text-align: center;
+}
+
+.second {
+    background-color: #209ed8;
+    text-align: center;
+}
+
+.third {
+    background-color:#53b6e7;
+    text-align: center;
+}
+
+.fourth {
+    background-color: #6fc2f0;
+    text-align: center;
+}
+
+.fifth {
+    background-color: #8bd1f5;
+    text-align: center;
+}
+
+.sixth {
+    background-color: #f5afcc;
+    text-align: center;
+}
+
+.seventh {
+    background-color: #f38eb7;
+    text-align: center;
+}
+
+.eighth {
+    background-color: #f16797;
+    text-align: center;
+}
+.ninth {
+    background-color:  #e69;
+    text-align: center;
+}
+
+.tenth {
+    background-color:  #ef1e69;
+    text-align: center;
+}
+
+.margin {
+    margin: 50px;
+}
